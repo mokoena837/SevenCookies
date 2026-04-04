@@ -1,4 +1,4 @@
-﻿# SevenCookies 🍪
+﻿# SevenCookies 
 
 A premium cookie e-commerce platform featuring seven delicious cookie flavors. This full-stack application provides a seamless online shopping experience with Django backend and modern frontend.
 
@@ -27,17 +27,7 @@ planetSeven/
 - **Admin Dashboard**: Manage products, orders, users
 - **Responsive Design**: Mobile-friendly interface
 
-## Cookie Flavors
 
-| Flavor | Description | Price |
-|--------|-------------|-------|
-| Chocolate Chip | Classic cookie with rich chocolate chips | R25.00 |
-| Double Chocolate | Intense chocolate experience | R28.00 |
-| Oatmeal Raisin | Healthy option with oats and raisins | R22.00 |
-| Peanut Butter | Creamy peanut butter cookie | R27.00 |
-| White Chocolate Macadamia | Premium with white chocolate | R30.00 |
-| Red Velvet | Rich red velvet with cream cheese | R28.00 |
-| Sugar Cookie | Simple, buttery sugar cookie | R20.00 |
 
 ## Technology Stack
 
