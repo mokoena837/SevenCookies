@@ -2,6 +2,17 @@
 
 A premium cookie e-commerce platform featuring seven delicious cookie flavors. This full-stack application provides a seamless online shopping experience with Django backend and modern frontend.
 
+##  Screenshots
+
+| Page | Screenshot |
+|------|------------|
+| Homepage | ![Homepage](screenshots/homepage.png) |
+| Products Page | ![Products Page](screenshots/products-page.png) |
+| Shopping Cart | ![Shopping Cart](screenshots/cart-page.png) |
+| Checkout Page | ![Checkout Page](screenshots/checkout-page.png) |
+| Orders Page | ![Orders Page](screenshots/orders-page.png) |
+| Order Tracking | ![Order Tracking](screenshots/order-tracking.png) |
+| Login Page | ![Login Page](screenshots/login-page.png) |
 ## Project Structure
 
 \\\
@@ -139,19 +150,7 @@ npm run build
 # Deploy build folder to hosting service
 \\\
 
-## Screenshots
 
-### Homepage
-[Add screenshot]
-
-### Product Catalog
-[Add screenshot]
-
-### Shopping Cart
-[Add screenshot]
-
-### Checkout
-[Add screenshot]
 
 ## Author
 
