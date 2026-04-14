@@ -1,6 +1,6 @@
 ﻿# SevenCookies 
 
-A premium cookie e-commerce platform featuring seven delicious cookie flavors. This full-stack application provides a seamless online shopping experience with Django backend and modern frontend.
+A premium cookie e-commerce platform featuring seven delicious cookie flavors. This full-stack application provides a seamless online shopping experience.
 
 ##  Screenshots
 
