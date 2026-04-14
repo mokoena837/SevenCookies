@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SevenCookies/static/css/main.7bc3363c.css",
+    "main.js": "/SevenCookies/static/js/main.a57184a6.js",
+    "static/media/008.PNG": "/SevenCookies/static/media/008.99ddf01d349134f106ed.PNG",
+    "static/media/001.PNG": "/SevenCookies/static/media/001.bffe5beeee90753dcb4d.PNG",
+    "static/media/004.JPG": "/SevenCookies/static/media/004.9d358a0168ab6d515753.JPG",
+    "static/media/006.JPG": "/SevenCookies/static/media/006.5b5ca67fa0b73282c0be.JPG",
+    "static/media/005.JPG": "/SevenCookies/static/media/005.845fd94deca3f72cd5e6.JPG",
+    "static/media/007.JPG": "/SevenCookies/static/media/007.a461da0d0c075f2f3415.JPG",
+    "static/media/003.JPG": "/SevenCookies/static/media/003.c7ee7d10c21ea29916d7.JPG",
+    "static/media/002.JPG": "/SevenCookies/static/media/002.6d3b3f9826c2c2f1f6e4.JPG",
+    "index.html": "/SevenCookies/index.html",
+    "main.7bc3363c.css.map": "/SevenCookies/static/css/main.7bc3363c.css.map",
+    "main.a57184a6.js.map": "/SevenCookies/static/js/main.a57184a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bc3363c.css",
+    "static/js/main.a57184a6.js"
+  ]
+}
