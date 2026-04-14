@@ -8,7 +8,7 @@ A premium cookie e-commerce platform featuring seven delicious cookie flavors. T
 |------|------------|
 | Homepage | ![Homepage](screenshots/homepage.png) |
 | Products Page | ![Products Page](screenshots/products-page.png) |
-| Shopping Cart | ![Shopping Cart](screenshots/cart-page.png) |
+| Shopping Cart | ![Shopping Cart](screenshots/checkout-page.png.png) |
 | Checkout Page | ![Checkout Page](screenshots/checkout-page.png) |
 | Orders Page | ![Orders Page](screenshots/orders-page.png.png) |
 | Order Tracking | ![Order Tracking](screenshots/order-tracking.png.png) |
